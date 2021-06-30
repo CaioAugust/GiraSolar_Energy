@@ -1,5 +1,6 @@
 /* 
 Programa: GiraSolar_Tracker
+Autor: Caio Augusto
 */
 
 #include <Servo.h>
