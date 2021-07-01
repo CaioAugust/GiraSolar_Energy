@@ -14,7 +14,7 @@
    Ex: Se (If) o valor do LDR "A" for maior que "B" faça que o servo se mova para a posição "X"
     Porém se (If Else) o valor do LDR "B" for maior que "A" faça que o servo se mova para a posição "Y"
     
-  👨🏻‍🚀Viu como é fácil, use o exemplo do código e tente você mesmo desenvolver o seu código
+  👨🏻‍🚀Viu como é fácil, use o exemplo do código e tente você mesmo desenvolver o seu próprio projeto!
    
   🌌Tenho certeza que irá conseguir!
     
