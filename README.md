@@ -1,5 +1,5 @@
 # 🌻 GiraSolar_Energy
-# **Como Funciona o Código?**
+# **Como Funciona o Código?🤷🏻‍♂️**
 ----------------------------------
   No Programa é declarado:
 - 2 servos motores que correspondem ao **Eixo X** e **Eixo Y**
