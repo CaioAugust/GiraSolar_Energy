@@ -1,13 +1,20 @@
 # 🌻 GiraSolar_Energy
 ---------------------------------
-# **What's Girasolar?**
+# **👨🏻‍🚀❤🌻 What's Girasolar?**
+---------------------------------
+
 ![image](https://user-images.githubusercontent.com/65203015/124290698-232a0d80-db2a-11eb-90f7-8b1aba7dc0e1.png)
+
 ---------------------------------
-# **Esquema de ligação**
+# **🪐Esquema de ligação**
+---------------------------------
+
 ![image](https://user-images.githubusercontent.com/65203015/124290899-5ec4d780-db2a-11eb-9971-817b557b4b2c.png)
+
 ---------------------------------
-# **Materiais Utilizados No Projeto**
+# **🧱Materiais Utilizados No Projeto**
 ---------------------------------
+
 – 1 Placa Uno SMD + Cabo USB para Arduino;
 
 – 1 Mini Painel Solar Fotovoltaico 12V 125mA;
@@ -17,6 +24,7 @@
 – 4 LDR Sensor de Luminosidade 5mm;
 
 – 1 Fonte de Alimentação Chaveada 5VDC 1A.
+
 ----------------------------------
 # **Como Funciona o Código?🤷🏻‍♂️**
 ----------------------------------
@@ -36,6 +44,10 @@
   👨🏻‍🚀Viu como é fácil, use o exemplo do código e tente você mesmo desenvolver o seu próprio projeto!
    
   🌌Tenho certeza que irá conseguir!
+  
+ ------------------------------------
+ # ** 🌻 Primeiro Protótipo**
+ ------------------------------------
     
     
 
