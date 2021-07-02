@@ -8,9 +8,13 @@
 ---------------------------------
 #Materiais Utilizados No Projeto
 – 1 Placa Uno SMD + Cabo USB para Arduino;
+
 – 1 Mini Painel Solar Fotovoltaico 12V 125mA;
+
 – 2 Micro Servo Motor 9g SG90 180°;
+
 – 4 LDR Sensor de Luminosidade 5mm;
+
 – 1 Fonte de Alimentação Chaveada 5VDC 1A.
 ----------------------------------
 # **Como Funciona o Código?🤷🏻‍♂️**
