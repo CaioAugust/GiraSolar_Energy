@@ -3,7 +3,7 @@
 # **What's Girasolar?**
 ![image](https://user-images.githubusercontent.com/65203015/124290698-232a0d80-db2a-11eb-90f7-8b1aba7dc0e1.png)
 ---------------------------------
-#Esquema de ligação
+# **Esquema de ligação**
 ![image](https://user-images.githubusercontent.com/65203015/124290899-5ec4d780-db2a-11eb-9971-817b557b4b2c.png)
 ---------------------------------
 # **Materiais Utilizados No Projeto**
