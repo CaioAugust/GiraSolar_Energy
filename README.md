@@ -46,7 +46,7 @@
   🌌Tenho certeza que irá conseguir!
   
  ------------------------------------
- # ** 🌻 Primeiro Protótipo **
+ # *🌻 Primeiro Protótipo*
  ------------------------------------
  ![image](https://user-images.githubusercontent.com/65203015/124294113-ba449480-db2d-11eb-97dc-dea10644f55c.png)
 
