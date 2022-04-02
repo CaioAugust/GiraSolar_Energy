@@ -23,6 +23,8 @@
 
 – 4 LDR Sensor de Luminosidade 5mm;
 
+- 4 Resistores de 
+
 – 1 Fonte de Alimentação Chaveada 5VDC 1A.
 
 ----------------------------------
